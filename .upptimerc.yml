@@ -25,7 +25,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status2.tikvite.org
+  cname: status.tikvite.org
   # baseUrl: /your-repo-name
   logoUrl: https://status.tikvite.org/logo-192x192.png
   favicon: https://status.tikvite.org/logo-192x192.png
