@@ -8,6 +8,7 @@ sites:
     method: GET
     expectedStatusCodes:
       - 200
+      - 403
     __dangerous__disable_verify_peer: true
 
   - name: Chat
@@ -15,11 +16,15 @@ sites:
     method: GET
     expectedStatusCodes:
       - 200
+      - 403
     __dangerous__disable_verify_peer: true
 
   - name: Some other Site
     url: $SECRET_SITE
     method: GET
+    expectedStatusCodes:
+      - 200
+      - 403
     __dangerous__disable_verify_peer: true
 
 status-website:
