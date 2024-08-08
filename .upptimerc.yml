@@ -19,7 +19,7 @@ sites:
       - 403
     __dangerous__disable_verify_peer: true
 
-    - name: ducks
+  - name: ducks
     url: $SECRET_SITE
     method: GET
     expectedStatusCodes:
