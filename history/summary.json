@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 190,
+    "time": 191,
     "timeDay": 228,
-    "timeWeek": 230,
-    "timeMonth": 205,
-    "timeYear": 190,
+    "timeWeek": 229,
+    "timeMonth": 206,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2024-05-11": 103
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 165,
-    "timeDay": 146,
-    "timeWeek": 138,
-    "timeMonth": 152,
+    "timeDay": 165,
+    "timeWeek": 146,
+    "timeMonth": 154,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-07-13": 18,
@@ -42,8 +42,8 @@
   },
   {
     "name": "ducks",
-    "url": "https://$DUCK",
-    "icon": "https://icons.duckduckgo.com/ip3/$duck.ico",
+    "url": "https://$SECRET_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/$secret_site.ico",
     "slug": "ducks",
     "status": "down",
     "uptime": "0.00%",
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-08": 12
+      "2024-08-08": 20
     }
   }
 ]
