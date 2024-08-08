@@ -20,7 +20,7 @@ sites:
     __dangerous__disable_verify_peer: true
 
   - name: ducks
-    url: $SECRET_SITE
+    url: https://$DUCK
     method: GET
     expectedStatusCodes:
       - 200
