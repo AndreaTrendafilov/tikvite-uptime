@@ -24,7 +24,7 @@
     "url": "https://chat.tikvite.org",
     "icon": "https://icons.duckduckgo.com/ip3/chat.tikvite.org.ico",
     "slug": "chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 729,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2024-11-14": 0,
       "2024-07-13": 18,
       "2024-05-11": 103
     }
@@ -57,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 25,
+      "2024-11-14": 654,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
