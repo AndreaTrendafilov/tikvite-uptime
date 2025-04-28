@@ -1,7 +1,7 @@
 url: https://tikvite.org
-status: up
-code: 200
-responseTime: 284
-lastUpdated: 2025-04-28T23:00:48.559Z
+status: down
+code: 500
+responseTime: 202
+lastUpdated: 2025-04-28T23:56:38.803Z
 startTime: 2024-05-11T07:26:33.895Z
 generator: Upptime <https://github.com/upptime/upptime>
