@@ -1,7 +1,7 @@
 url: https://chat.tikvite.org
-status: up
-code: 200
-responseTime: 928
-lastUpdated: 2025-04-28T23:00:49.672Z
+status: down
+code: 500
+responseTime: 224
+lastUpdated: 2025-04-28T23:44:34.832Z
 startTime: 2024-05-11T07:26:35.843Z
 generator: Upptime <https://github.com/upptime/upptime>
